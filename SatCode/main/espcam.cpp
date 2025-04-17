@@ -1,0 +1,15 @@
+// Firebase.setFloat(firebaseData, "/sensorData/gpsData/latitude", latitude);
+//   Firebase.setFloat(firebaseData, "/sensorData/gpsData/longitude", longitude);
+//   Firebase.setFloat(firebaseData, "/sensorData/gpsData/altitude", altitude);
+//   Firebase.setFloat(firebaseData, "/sensorData/EnvData/temperature", temperature);
+//   Firebase.setFloat(firebaseData, "/sensorData/EnvData/humidity", humidity);
+//   Firebase.setFloat(firebaseData, "/sensorData/Orientation/roll", roll);
+//   Firebase.setFloat(firebaseData, "/sensorData/Orientation/pitch", pitch);
+//   // Firebase.setFloat(firebaseData, "/sensorData/Battery/current", current);
+//   Firebase.setFloat(firebaseData, "/sensorData/Battery/voltage", voltage);
+//   Firebase.setFloat(firebaseData, "/sensorData/Accleration/accelX", accelX);
+//   Firebase.setFloat(firebaseData, "/sensorData/Accleration/accelY", accelY);
+//   Firebase.setFloat(firebaseData, "/sensorData/Accleration/accelZ", accelZ);
+//   Firebase.setFloat(firebaseData, "/sensorData/Magnetude/magX", magX);
+//   Firebase.setFloat(firebaseData, "/sensorData/Magnetude/magY", magY);
+//   Firebase.setFloat(firebaseData, "/sensorData/Magnetude/magZ", magZ);
